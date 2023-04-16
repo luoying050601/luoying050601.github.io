@@ -50,13 +50,13 @@ Dawn is coming open up your eyes.
 
 ## 免許・資格
 
-- PMP　4A合格
+- PMP(Project Management Professional): 4A合格
 
-- 日本语能力测试JLPT N1 合格
+- 日本语能力测试JLPT N1: 合格
 
-- TOEFL : 85
+- TOEFL: 85
 
-- AT免許　合格
+- AT免許: 合格
 
 
 ## Working Experience
