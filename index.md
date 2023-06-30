@@ -24,33 +24,32 @@ Dawn is coming open up your eyes.
 
 ## Education
 
+- *(2022.04-)* 理学博士, 人間文化創成科学研究科, **お茶の水女子大学**, 日本
 - *(2020.04-2022.03)* 理学修士, 人間文化創成科学研究科, **お茶の水女子大学**, 日本
-- *(2012.09-2016.06)* Bachlor in Software Engineering, College of Mathematics and Computer Science, **Fuzhou University(University of 211 Project)**, Fujian Province, China
+- *(2012.09-2016.06)* Bachelor in Software Engineering, College of Mathematics and Computer Science, **Fuzhou University(University of 211 Project)**, Fujian Province, China
 
 
 ## Teck Stack
 
 - Backend: Java; Python; EJB
-- Database: OracleDB;MySQL
+- Database: OracleDB; MySQL
 - Frontend: AngularJS; CSS
 
 
 ## 研究業績
 
-- [1] Ying Luo, Lis Kanashiro Pereira, Ichiro Kobayashi. OCHADAI at SMM4H-2021 Task 5: Classifying self-reporting tweets on potential cases of COVID-19 by ensembling pre-trained language models. Workshop of SMM4H 2021, NAACL2021. オンライン. 査読有. 2021年7月6日～11日. 
-
-- [2] 羅　桜, 小林一郎. BrainBERT:脳活動とテキストの対応関係を捉えた言語モデル構築への取り組み.第37回ファジィシステムシンポジウム. オンライン. 査読無. 2021年9月13日～15日.
-
-
-- [3] Ying Luo, Ichiro Kobayashi. BrainBERT: An Approach to Language Model Capturing the Correspondence between Brain Activities and Language. International Symposium on Advanced Intelligent System.オンライン. 査読有. 2021年12月15日～18日.
-
-
-- [4] 羅　桜, 小林一郎. 汎用言語モデルBrainBERT を用いた言語刺激下の脳内状態推定.人工知能学会全国大会(第36回). 国立京都国際会館. 査読無. 2022年6月14日～17日. 
+- [2023]  Ying Luo, Ichiro Kobayashi. BrainLM: Estimation of Brain Activity Evoked Linguistic Stimuli utilizing Large Language. IEEE-SMC2023. Maui, Hawaii.
+- [2023] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. The Music LP Dataset: EEG measurement of human brain activity under passive and active musical stimulation.JSAI2023. Kumamoto.
+- [2023] Ying Luo, Ichiro Kobayashi. An approach to general-purpose language modeling for brain state estimation. NLP2023. Okinawa.
+- [2022] Ying Luo, Ichiro Kobayashi. Estimation of brain states under linguistic stimuli using a general-purpose language model.JSAI2022. Kyoto.
+- [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An approach to language model building based on the correspondence between brain activity and text.FSS2021.(online)
+- [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An Approach to Language Model Capturing the Correspondence between Brain Activities and Language. International Symposium on Advanced Intelligent System. (online)
+2021 Ying Luo, Lis Kanashiro Pereira, Ichiro Kobayashi. OCHADAI at SMM4H-2021 Task 5: Classifying self-reporting tweets on potential cases of COVID-19 by ensembling pre-trained language models. Workshop of SMM4H 2021, NAACL2021. (online)
 
 
 ## 免許・資格
 
-- PMP(Project Management Professional): 4A合格
+- PMP(Project Management Professional): 4A 合格
 
 - 日本语能力测试JLPT N1: 合格
 
@@ -68,7 +67,7 @@ Dawn is coming open up your eyes.
 中国・上海DefineSys情報技術株式会社，2015年9月〜2019年4月. 
 
 -**[リサーチ・アシスタント](https://t9t.io)**
-お茶の水女子大学人間文化創成科学研究科，2020年8月〜2021年2月. 
+お茶の水女子大学人間文化創成科学研究科，2020年8月〜2023年2月. 
 
 -**[ティーチング・アシスタント](https://t9t.io)**
 お茶の水女子大学理学部 「情報処理演習」，2021年4月〜7月.
@@ -87,6 +86,8 @@ Dawn is coming open up your eyes.
 
 -  特別研究員 令和5年度独立行政法人日本学振振興会フェローシップ.
 お茶の水女子大学，2023年4月〜2025年3月.
+
+-  Research grant (Grant-in-Aid for JSPS Fellows): 900,000 yen per year by Japan Society for the Promotion of Science (JSPS); **https://research-er.jp/projects/view/1226696**
 
 -  令和4年度お茶大アカデミック・プロダクション大学院生フェローシップ (博士後期課程1年のうち6名).
 お茶の水女子大学，2022年4月〜2023年3月.
