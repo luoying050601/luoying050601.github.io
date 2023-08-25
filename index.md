@@ -1,6 +1,6 @@
 # Ying Luo
 
-Dawn is coming open your eyes.
+Dawn is coming, open your eyes.
 ## Contact
 
 | [GitHub](https://github.com/luoying050601) | [Twitter](https://twitter.com/) | [Email](mailto:ying.luo@is.ocha.ac.jp) | [Website]() | [Blog]() | 
