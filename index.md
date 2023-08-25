@@ -84,6 +84,8 @@ Dawn is coming open up your eyes.
 
 ##  受賞歴
 
+-  Student Travel Grant: $500 by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);(https://ieeesmc2023.org/grants/student-grants/)
+
 -  特別研究員 令和5年度独立行政法人日本学振振興会フェローシップ.
 お茶の水女子大学，2023年4月〜2025年3月.
 
