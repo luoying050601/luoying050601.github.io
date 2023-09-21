@@ -38,7 +38,7 @@ Dawn is coming, open your eyes.
 
 ## 研究業績
 
-- [2023]  Ying Luo, Ichiro Kobayashi. BrainLM: Estimation of Brain Activity Evoked Linguistic Stimuli utilizing Large Language. IEEE-SMC2023. Maui, Hawaii.
+- [2023] Ying Luo, Ichiro Kobayashi. BrainLM: Estimation of Brain Activity Evoked Linguistic Stimuli utilizing Large Language. IEEE-SMC2023. Honolulu, Hawaii.
 - [2023] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. The Music LP Dataset: EEG measurement of human brain activity under passive and active musical stimulation.JSAI2023. Kumamoto.
 - [2023] Ying Luo, Ichiro Kobayashi. An approach to general-purpose language modeling for brain state estimation. NLP2023. Okinawa.
 - [2022] Ying Luo, Ichiro Kobayashi. Estimation of brain states under linguistic stimuli using a general-purpose language model.JSAI2022. Kyoto.
@@ -86,12 +86,14 @@ Dawn is coming, open your eyes.
 
 -  IEEE Brain Best (Student) Paper Award candidate by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);(7 in brain Categories)
 
--  Student Travel Grant: $500 by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);(https://ieeesmc2023.org/grants/student-grants/)
+-  Student Travel Grant: $500 by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);
+   **https://ieeesmc2023.org/grants/student-grants/**
 
 -  特別研究員 令和5年度独立行政法人日本学振振興会フェローシップ.
 お茶の水女子大学，2023年4月〜2025年3月.
 
--  Research grant (Grant-in-Aid for JSPS Fellows): 900,000 yen per year by Japan Society for the Promotion of Science (JSPS); **https://research-er.jp/projects/view/1226696**
+-  Research grant (Grant-in-Aid for JSPS Fellows): 900,000 yen per year by Japan Society for the Promotion of Science (JSPS);
+  **https://research-er.jp/projects/view/1226696**
 
 -  令和4年度お茶大アカデミック・プロダクション大学院生フェローシップ (博士後期課程1年のうち6名).
 お茶の水女子大学，2022年4月〜2023年3月.
