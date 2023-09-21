@@ -85,6 +85,7 @@ Dawn is coming, open your eyes.
 ##  受賞歴
 
 -  IEEE Brain Best (Student) Paper Award candidate by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);(7 in brain Categories)
+   **https://ieeesmc2023.org/grants/best-student-paper-award/**
 
 -  Student Travel Grant: $500 by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);
    **https://ieeesmc2023.org/grants/student-grants/**
