@@ -29,7 +29,7 @@ Dawn is coming, open your eyes.
 - *(2012.09-2016.06)* Bachelor in Software Engineering, College of Mathematics and Computer Science, **Fuzhou University(University of 211 Project)**, Fujian Province, China
 
 
-## Teck Stack
+## Tech Stack
 
 - Backend: Java; Python; EJB
 - Database: OracleDB; MySQL
