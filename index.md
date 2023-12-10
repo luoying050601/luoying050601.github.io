@@ -43,9 +43,11 @@ Dawn is coming, open your eyes.
 - [2023] Ying Luo, Ichiro Kobayashi. An approach to general-purpose language modeling for brain state estimation. NLP2023. Okinawa.
 - [2022] Ying Luo, Ichiro Kobayashi. Estimation of brain states under linguistic stimuli using a general-purpose language model.JSAI2022. Kyoto.
 - [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An approach to language model building based on the correspondence between brain activity and text.FSS2021.(online)
-- [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An Approach to Language Model Capturing the Correspondence between Brain Activities and Language. International Symposium on Advanced Intelligent System.(online)
+- [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An Approach to Language Model Capturing the Correspondence between Brain Activities and Language. International Symposium on Advanced Intelligent System. (online)
 - [2021] Ying Luo, Lis Kanashiro Pereira, Ichiro Kobayashi. OCHADAI at SMM4H-2021 Task 5: Classifying self-reporting tweets on potential cases of COVID-19 by ensembling pre-trained language models. Workshop of SMM4H 2021, NAACL2021.(online)
 
+## TALKs
+Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), Dec. 26th, 2023. 
 
 ## 免許・資格
 
