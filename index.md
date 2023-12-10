@@ -46,7 +46,7 @@ Dawn is coming, open your eyes.
 - [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An Approach to Language Model Capturing the Correspondence between Brain Activities and Language. International Symposium on Advanced Intelligent System. (online)
 - [2021] Ying Luo, Lis Kanashiro Pereira, Ichiro Kobayashi. OCHADAI at SMM4H-2021 Task 5: Classifying self-reporting tweets on potential cases of COVID-19 by ensembling pre-trained language models. Workshop of SMM4H 2021, NAACL2021.(online)
 
-## TALKs
+## Invited
 Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), Dec. 26th, 2023. 
 
 ## 免許・資格
