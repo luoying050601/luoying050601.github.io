@@ -11,7 +11,7 @@ Dawn is coming, open your eyes.
   <tr>
     <td width="75%">
       <h1>羅桜</h1>
-      <p><b>博士後期2年生</b></p>
+      <p><b>博士後期3年生</b></p>
       <p><b>お茶の水女子大学人間文化創成科学研究科</b></p>
       <p><b>メール：luo.ying@is.ocha.ac.jp</b></p>
       <p><b>アクセス：東京都文京区大塚2-1-1</b></p>
@@ -31,13 +31,14 @@ Dawn is coming, open your eyes.
 
 ## Tech Stack
 
-- Backend: Java; Python; EJB
+- Backend:  Python; Java(EJB)
 - Database: OracleDB; MySQL
 - Frontend: AngularJS; CSS
 
 
 ## 研究業績
 
+- [2024] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. Ensemble Transfer Learning  for Multilingual Learning via BrainLM: A Multi-modal Model. JSAI2024. Shizuoka.
 - [2023] Ying Luo, Ichiro Kobayashi. BrainLM: Estimation of Brain Activity Evoked Linguistic Stimuli utilizing Large Language. IEEE-SMC2023. Honolulu, Hawaii.
 - [2023] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. The Music LP Dataset: EEG measurement of human brain activity under passive and active musical stimulation.JSAI2023. Kumamoto.
 - [2023] Ying Luo, Ichiro Kobayashi. An approach to general-purpose language modeling for brain state estimation. NLP2023. Okinawa.
@@ -86,14 +87,14 @@ Plenary Talk, National Institute of Advanced Industrial Science and Technology (
 
 ##  受賞歴
 
+-  Special Research Grant Allowance (30,000 yen per month), 独立行政法人日本学振振興会フェローシップ(Japan Society for the Promotion of Science, JSPS), 2024
 -  IEEE Brain Best (Student) Paper Award candidate by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);(7 in brain Categories)
    **https://ieeesmc2023.org/grants/best-student-paper-award/**
 
 -  Student Travel Grant: $500 by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);
    **https://ieeesmc2023.org/grants/student-grants/**
 
--  特別研究員 令和5年度独立行政法人日本学振振興会フェローシップ.
-お茶の水女子大学，2023年4月〜2025年3月.
+-  特別研究員(DC2) 独立行政法人日本学振振興会フェローシップ(Japan Society for the Promotion of Science, JSPS). お茶の水女子大学，2023年4月〜2025年3月.
 
 -  Research grant (Grant-in-Aid for JSPS Fellows): 900,000 yen per year by Japan Society for the Promotion of Science (JSPS);
   **https://research-er.jp/projects/view/1226696**
