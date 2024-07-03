@@ -87,7 +87,8 @@ Plenary Talk, National Institute of Advanced Industrial Science and Technology (
 
 ##  受賞歴
 
--  Special Research Grant Allowance (30,000 yen per month), 独立行政法人日本学振振興会フェローシップ(Japan Society for the Promotion of Science, JSPS), 2024
+-  Special Research Grant Allowance (30,000 yen per month), 独立行政法人日本学振振興会フェローシップ(Japan Society for the Promotion of Science, JSPS), 2024.
+  
 -  IEEE Brain Best (Student) Paper Award candidate by the 2023 IEEE Conference on Systems, Man, and Cybernetics(IEEE SMC 2023);(7 in brain Categories)
    **https://ieeesmc2023.org/grants/best-student-paper-award/**
 
@@ -99,26 +100,18 @@ Plenary Talk, National Institute of Advanced Industrial Science and Technology (
 -  Research grant (Grant-in-Aid for JSPS Fellows): 900,000 yen per year by Japan Society for the Promotion of Science (JSPS);
   **https://research-er.jp/projects/view/1226696**
 
--  令和4年度お茶大アカデミック・プロダクション大学院生フェローシップ (博士後期課程1年のうち6名).
-お茶の水女子大学，2022年4月〜2023年3月.
+-  令和4年度お茶大アカデミック・プロダクション大学院生フェローシップ (博士後期課程1年のうち6名). お茶の水女子大学，2022年4月〜2023年3月.
 
--  みがかずば支援奨学金(18万円).
-お茶の水女子大学，2021年8月～2022年1月.
+-  みがかずば支援奨学金(18万円). お茶の水女子大学，2021年8月～2022年1月.
 
--  令和3年度アバナード研究奨励賞(全大学院生中10名). 
-(株) アバナード，2021年9月. (全学受賞者のうち5名が行う研究成果報告会へも参加した)
+-  令和3年度アバナード研究奨励賞(全大学院生中10名).  (株) アバナード，2021年9月. (全学受賞者のうち5名が行う研究成果報告会へも参加した)
 
--  Best Presentation Award.
-The 22nd International Symposium on Advanced Intelligent Systems，2021年12月. 
+-  Best Presentation Award. The 22nd International Symposium on Advanced Intelligent Systems，2021年12月. 
 
--  みがかずば支援奨学金 (27万円).
-お茶の水女子大学，2020年7月～2021年3月. 
+-  みがかずば支援奨学金 (27万円). お茶の水女子大学，2020年7月～2021年3月. 
 
--  年間最優秀社員.
-中国・上海DefineSys情報技術株式会社，2019年1月. 
+-  年間最優秀社員. 中国・上海DefineSys情報技術株式会社，2019年1月. 
 
--  優秀卒業論文・優秀卒業生.
-中国福州大学，2016年6月. 
+-  優秀卒業論文・優秀卒業生. 中国福州大学，2016年6月. 
 
--  学内・民間奨学金奨学金.
-中国福州大学，2012年9月～2016年6月. 
+-  学内・民間奨学金奨学金. 中国福州大学，2012年9月～2016年6月. 
