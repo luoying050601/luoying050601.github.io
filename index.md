@@ -48,7 +48,8 @@ Dawn is coming, open your eyes.
 - [2021] Ying Luo, Lis Kanashiro Pereira, Ichiro Kobayashi. OCHADAI at SMM4H-2021 Task 5: Classifying self-reporting tweets on potential cases of COVID-19 by ensembling pre-trained language models. Workshop of SMM4H 2021, NAACL2021.(online)
 
 ## Invited
-Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), Dec. 26th, 2023. 
+- Plenary Talk, School of Computer Science and Big Data, Fuzhou University, Jan. 16th, 2024. 
+- Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), Dec. 26th, 2023. 
 
 ## 免許・資格
 
