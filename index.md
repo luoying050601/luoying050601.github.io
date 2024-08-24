@@ -37,7 +37,7 @@ Dawn is coming, open your eyes.
 
 
 ## 研究業績
-
+- [2024] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. Exploring Individual and Sex Differences from Brain EEG Signals under Music Stimuli. 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, Nov., 2024.
 - [2024] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. Ensemble Transfer Learning  for Multilingual Learning via BrainLM: A Multi-modal Model. JSAI2024. Shizuoka.
 - [2023] Ying Luo, Ichiro Kobayashi. BrainLM: Estimation of Brain Activity Evoked Linguistic Stimuli utilizing Large Language. IEEE-SMC2023. Honolulu, Hawaii.
 - [2023] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. The Music LP Dataset: EEG measurement of human brain activity under passive and active musical stimulation.JSAI2023. Kumamoto.
