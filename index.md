@@ -1,6 +1,6 @@
 # Ying Luo
 
-Dawn is coming, open your eyes.
+Dawn is coming; open your eyes.
 ## Contact
 
 | [GitHub](https://github.com/luoying050601) | [Twitter](https://twitter.com/) | [Email](mailto:ying.luo@is.ocha.ac.jp) | [Website]() | [Blog]() | 
@@ -49,20 +49,24 @@ Dawn is coming, open your eyes.
 - [2022] Ying Luo, Ichiro Kobayashi. Estimation of brain states under linguistic stimuli using a general-purpose language model.JSAI2022. Kyoto.
 - [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An approach to language model building based on the correspondence between brain activity and text.FSS2021.(online)
 
+##  Volunteer Experiences 
+- [2024] Conference Volunteer. INLG 2024. Tokyo, Japan.
+- [2023] Conference Volunteer. IEEE-SMC2023. Honolulu, Hawaii.
+
 
 ## Invited
 - Plenary Talk, School of Computer Science and Big Data, Fuzhou University, Jan. 16th, 2024. 
 - Plenary Talk, National Institute of Advanced Industrial Science and Technology (AIST), Artificial Intelligence Research Center (AIRC), Dec. 26th, 2023. 
 
-## 免許・資格
+## Certification
 
-- PMP(Project Management Professional): 4A 合格
+- PMP(Project Management Professional): 4A Pass
 
-- 日本语能力测试JLPT N1: 合格
+- 日本语能力测试JLPT N1(The Japanese-Language Proficiency Test): Pass
 
 - TOEFL: 85
 
-- AT免許: 合格
+- AT Driver License: Pass
 
 
 ## Working Experience
@@ -118,4 +122,6 @@ Dawn is coming, open your eyes.
 
 -  優秀卒業論文・優秀卒業生. 中国福州大学，2016年6月. 
 
--  学内・民間奨学金奨学金. 中国福州大学，2012年9月～2016年6月. 
+-  学内・民間奨学金奨学金. 中国福州大学，2012年9月～2016年6月.
+
+
