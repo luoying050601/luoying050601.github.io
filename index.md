@@ -36,16 +36,19 @@ Dawn is coming, open your eyes.
 - Frontend: AngularJS; CSS
 
 
-## 研究業績
+## Publication(International Conference)
 - [2024] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. Exploring Individual and Sex Differences from Brain EEG Signals under Music Stimuli. 2024 Joint 13th International Conference on Soft Computing and Intelligent Systems and 25th International Symposium on Advanced Intelligent Systems (SCIS&ISIS), Himeji, Japan, Nov., 2024.
-- [2024] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. Ensemble Transfer Learning  for Multilingual Learning via BrainLM: A Multi-modal Model. JSAI2024. Shizuoka.
 - [2023] Ying Luo, Ichiro Kobayashi. BrainLM: Estimation of Brain Activity Evoked Linguistic Stimuli utilizing Large Language. IEEE-SMC2023. Honolulu, Hawaii.
+- [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An Approach to Language Model Capturing the Correspondence between Brain Activities and Language. International Symposium on Advanced Intelligent System. (online)
+- [2021] Ying Luo, Lis Kanashiro Pereira, Ichiro Kobayashi. OCHADAI at SMM4H-2021 Task 5: Classifying self-reporting tweets on potential cases of COVID-19 by ensembling pre-trained language models. Workshop of SMM4H 2021, NAACL2021.(online)
+
+## Publication(Domestic Conference)
+- [2024] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. Ensemble Transfer Learning  for Multilingual Learning via BrainLM: A Multi-modal Model. JSAI2024. Shizuoka.
 - [2023] Ying Luo, Satoshi Nishida, Ichiro Kobayashi. The Music LP Dataset: EEG measurement of human brain activity under passive and active musical stimulation.JSAI2023. Kumamoto.
 - [2023] Ying Luo, Ichiro Kobayashi. An approach to general-purpose language modeling for brain state estimation. NLP2023. Okinawa.
 - [2022] Ying Luo, Ichiro Kobayashi. Estimation of brain states under linguistic stimuli using a general-purpose language model.JSAI2022. Kyoto.
 - [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An approach to language model building based on the correspondence between brain activity and text.FSS2021.(online)
-- [2021] Ying Luo, Ichiro Kobayashi. BrainBERT: An Approach to Language Model Capturing the Correspondence between Brain Activities and Language. International Symposium on Advanced Intelligent System. (online)
-- [2021] Ying Luo, Lis Kanashiro Pereira, Ichiro Kobayashi. OCHADAI at SMM4H-2021 Task 5: Classifying self-reporting tweets on potential cases of COVID-19 by ensembling pre-trained language models. Workshop of SMM4H 2021, NAACL2021.(online)
+
 
 ## Invited
 - Plenary Talk, School of Computer Science and Big Data, Fuzhou University, Jan. 16th, 2024. 
@@ -86,7 +89,7 @@ Dawn is coming, open your eyes.
 お茶の水女子大学中国留学生会，2022年4月〜2024年3月.
 
 
-##  受賞歴
+##  Scholarships & Awards 
 
 -  Special Research Grant Allowance (30,000 yen per month), 独立行政法人日本学振振興会フェローシップ(Japan Society for the Promotion of Science, JSPS), 2024.
   
